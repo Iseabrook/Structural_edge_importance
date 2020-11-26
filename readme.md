@@ -1,6 +1,6 @@
 # Edge Structural Importance
 
-This repository contains the code developed to support the findings presented in Seabrook et al., Evaluating Structural Edge Importance in Financial Networks
+This repository contains the code developed to support the findings to be published Seabrook et al., Evaluating Structural Edge Importance in Financial Networks (2020)
 
 ## Usage
 The scripts should be run in the following order: 
